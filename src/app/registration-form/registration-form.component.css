@@ -1,0 +1,21 @@
+.form{
+  background-color: azure;
+  width: 350px;
+  margin: 10px auto;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+span{
+  background-color: dodgerblue;
+  color: white;
+}
+h4{
+  text-align: center;
+  color:dodgerblue;
+  text-decoration: underline;
+}
+.text{
+  color:dodgerblue;
+  text-decoration: underline;
+  background-color: white;
+}
